@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504307433 source:c:\users\alumno\desktop\validar vocales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
